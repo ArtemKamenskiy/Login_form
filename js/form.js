@@ -34,4 +34,3 @@ inputPass.addEventListener('keyup', function () {
         this.value = this.value.replace(/[ ]+$/, '');
     }
 });
-
