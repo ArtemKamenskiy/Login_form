@@ -65,6 +65,7 @@ label span {
     width: 150px;
     outline: none;
     font-size: 16px;
+    border: none;
     border-radius: 5px;
     color: #ffffff;
     text-transform: uppercase;
